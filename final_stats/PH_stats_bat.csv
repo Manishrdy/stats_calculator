@@ -1,0 +1,12 @@
+player,Matches,Innings,Not Outs,Runs,Balls Faced,Average,Strike Rate,100s,50s,4s,6s
+Neville Longbottom,3,3,1.0,68,69,34.0,98.55072463768116,0,1,4,1
+Ron Weasley,3,3,1.0,56,66,28.0,84.84848484848484,0,0,4,0
+Sirius Black,3,3,2.0,53,42,53.0,126.19047619047619,0,0,6,1
+Harry Potter,3,3,0.0,51,59,17.0,86.44067796610169,0,0,2,3
+Albus Dumbledore,3,3,0.0,37,50,12.333333333333334,74.0,0,0,1,2
+Ginny Weasley,3,2,1.0,35,42,35.0,83.33333333333333,0,0,3,1
+Luna Lovegood,3,1,1.0,13,27,inf,48.148148148148145,0,0,0,2
+Hermione Granger,3,2,0.0,2,6,1.0,33.333333333333336,0,0,0,0
+Fred Weasley,3,0,0.0,0,0,,,0,0,0,0
+George Weasley,3,0,0.0,0,0,,,0,0,0,0
+Severus Snape,3,0,0.0,0,0,,,0,0,0,0

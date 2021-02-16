@@ -1,0 +1,12 @@
+player,games,inning,not_outs,total_runs,balls_faced,bb,ave,strike_rate,hundreds,fifties,fours,sixes
+Sirius Black,1,1,1,40,28,40* (28),,142.857142857143,0,0,4,1
+Ginny Weasley,1,1,1,24,24,24* (24),,100,0,0,2,1
+Harry Potter,1,1,0,21,20,21 (20),21,105,0,0,1,2
+Ron Weasley,1,1,0,13,20,13 (20),13,65,0,0,1,0
+Albus Dumbledore,1,1,0,9,22,9 (22),9,40.9090909090909,0,0,0,0
+Neville Longbottom,1,1,0,2,4,2 (4),2,50,0,0,0,0
+Hermione Granger,1,1,0,0,2,0 (2),0,0,0,0,0,0
+Fred Weasley,1,0,,0,0,0* (0),,,0,0,0,0
+George Weasley,1,0,,0,0,0* (0),,,0,0,0,0
+Luna Lovegood,1,0,,0,0,0* (0),,,0,0,0,0
+Severus Snape,1,0,,0,0,0* (0),,,0,0,0,0

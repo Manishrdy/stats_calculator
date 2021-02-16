@@ -1,0 +1,7 @@
+player,games,inning,overs,total_wickets,runs_conceded,ave,economy_rate,strike_rate,fifers,fourfers
+Ginny Weasley,3,3,10.2,3,57,19.0,5.588235294117648,20.4,0,0
+Luna Lovegood,3,3,9.0,3,67,22.333333333333332,7.444444444444445,18.0,0,0
+Severus Snape,3,3,9.0,3,69,23.0,7.666666666666667,18.0,0,0
+Fred Weasley,3,3,11.0,1,66,66.0,6.0,66.0,0,0
+Hermione Granger,3,3,7.0,1,46,46.0,6.571428571428571,42.0,0,0
+George Weasley,3,3,10.0,0,64,inf,6.4,inf,0,0
